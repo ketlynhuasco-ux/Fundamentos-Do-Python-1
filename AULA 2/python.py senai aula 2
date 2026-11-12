@@ -1,0 +1,21 @@
+#1
+#numero = float(input('numero:'))
+#print(numero**3)
+
+
+
+#2
+#fruta1 = 'banana'
+#fruta2 = 'pitaya'
+#fruta3 = 'uva'
+
+#resultado = (fruta1, fruta2, fruta3)
+#print(resultado)
+
+
+#3
+#numero1 = input('Digite um numero inteiro:')
+#numero2 = input('Digite um numero inteiro:')
+#resultado = numero1 + numero2
+#print(resultado)
+
